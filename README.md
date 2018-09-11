@@ -1,5 +1,5 @@
 
-#   sign Recognizer with VGG16 using tensorflow
+# sign Recognizer with VGG16 using tensorflow
 
 vgg16 model to recignize hand sign for digit numbers from 0 to 5.
 
